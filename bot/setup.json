@@ -1,0 +1,15 @@
+{
+    "bot_info": 
+    {
+        "bot_token": "sometoken",
+        "channel":   "channel ID to print embeded message to",
+        "prefix":    "."
+    },
+
+    "1":
+    {
+        "role_name": "some_role",
+        "role_id":   "put role id here",
+        "emoji_id":  "emoji id here"
+    }
+}
